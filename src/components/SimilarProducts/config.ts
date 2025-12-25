@@ -1,0 +1,15 @@
+export type SimilarProducts = {
+    id : number,
+    name : string,
+    desciption : string,
+    type : string, 
+    basePrice : number, 
+    price : number,
+    color : string,
+    size : string,
+    quantity : number,
+    offer : number,
+    rating : number,
+    no_of_reviews : number,
+    image : string,
+}
